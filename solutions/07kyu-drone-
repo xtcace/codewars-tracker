@@ -1,0 +1,6 @@
+function flyBy(lamps, drone){
+ const n = Math.min(drone.length, lamps.length);
+  return 'o'.repeat(n) + lamps.slice(n);
+
+
+}
