@@ -1,0 +1,13 @@
+const age = (x,y) => x / (y -1) + x 
+
+/*
+j = b + x 
+j = b * y 
+b * y = b + x 
+b * y - b = x 
+b(y - 1) = x 
+b = x / (y - 1)
+
+j = x / (y- 1)
+
+*/
